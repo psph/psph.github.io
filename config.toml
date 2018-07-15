@@ -1,0 +1,4 @@
+baseURL = "https://pavel.se/"
+languageCode = "en-us"
+title = "Pavel's Cocoa"
+theme = "cocoa-eh"
