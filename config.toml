@@ -1,4 +1,4 @@
-baseURL = "https://pavel.se/"
+baseURL = "https://psph.github.io/"
 languageCode = "en-us"
 title = "Pavel's Cocoa"
 theme = "cocoa-eh"
